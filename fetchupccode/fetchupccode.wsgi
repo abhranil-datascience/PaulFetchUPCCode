@@ -1,2 +1,2 @@
-sys.path.insert(0, '/var/www/html/FetchUPCCodeApp')
-from FetchUPCCode import app as application
+sys.path.insert(0, '/var/www/html/fetchupccode')
+from fetchupccode import app as application
